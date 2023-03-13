@@ -28,6 +28,8 @@ console.log('lesson 4');
 // Получите данные промиса и выведите их в консоль
 
 
+
+
 // Task 05
 // Создайте литерал объекта handlePromise со следующими свойствами:
 // promise, resolve, reject, onSuccess, onError
